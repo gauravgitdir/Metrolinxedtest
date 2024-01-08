@@ -1,0 +1,9 @@
+{
+	"name": "testingGithubrepoADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "60b377e3-e8a7-47bf-be15-133d33501e8c",
+		"tenantId": "638456b8-8343-4e48-9ebe-4f5cf9a1997d"
+	}
+}
